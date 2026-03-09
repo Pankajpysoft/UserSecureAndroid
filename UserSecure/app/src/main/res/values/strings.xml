@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UserSecure</string>
+    <string name="app_tagline">AI Username &amp; Password Generator</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_username">Username</string>
+    <string name="nav_password">Password</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_add">Add New</string>
+
+    <!-- Home Screen -->
+    <string name="tab_username_generator">Username Generator</string>
+    <string name="tab_password_generator">Password Generator</string>
+    <string name="recent_items">Recent Items</string>
+    <string name="no_recent_items">No recent items yet.\nTap the + button to generate!</string>
+
+    <!-- Username Generator -->
+    <string name="username_count_hint">Number of usernames (1–20)</string>
+    <string name="username_style_label">Username Style</string>
+    <string name="style_cool">Cool</string>
+    <string name="style_funny">Funny</string>
+    <string name="style_professional">Professional</string>
+    <string name="generate_usernames">Generate Usernames</string>
+    <string name="generated_usernames">Generated Usernames</string>
+    <string name="no_usernames">No usernames generated yet</string>
+
+    <!-- Password Generator -->
+    <string name="password_length_label">Password Length: %d</string>
+    <string name="include_uppercase">Uppercase (A–Z)</string>
+    <string name="include_lowercase">Lowercase (a–z)</string>
+    <string name="include_numbers">Numbers (0–9)</string>
+    <string name="include_symbols">Symbols (!@#$)</string>
+    <string name="generate_password">Generate Password</string>
+    <string name="generated_passwords">Generated Passwords</string>
+    <string name="no_passwords">No passwords generated yet</string>
+
+    <!-- Strength Meter -->
+    <string name="strength_weak">Weak</string>
+    <string name="strength_fair">Fair</string>
+    <string name="strength_good">Good</string>
+    <string name="strength_strong">Strong</string>
+
+    <!-- Actions -->
+    <string name="copy">Copy</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="copied">Copied to clipboard!</string>
+    <string name="saved">Saved to favorites!</string>
+    <string name="already_saved">Already in favorites</string>
+    <string name="deleted">Removed from favorites</string>
+
+    <!-- Favorites -->
+    <string name="favorites_title">Favorites</string>
+    <string name="tab_fav_usernames">Usernames</string>
+    <string name="tab_fav_passwords">Passwords</string>
+    <string name="no_fav_usernames">No favorite usernames saved yet</string>
+    <string name="no_fav_passwords">No favorite passwords saved yet</string>
+
+    <!-- Add Item -->
+    <string name="add_item_title">Add New Item</string>
+    <string name="add_username_hint">Enter or auto-generate a username</string>
+    <string name="add_password_hint">Enter or auto-generate a password</string>
+    <string name="auto_generate">Auto Generate</string>
+    <string name="type_username">Username</string>
+    <string name="type_password">Password</string>
+
+    <!-- AdMob -->
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

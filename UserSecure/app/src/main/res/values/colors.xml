@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#ADD8E6</color>
+    <color name="colorPrimaryDark">#87CEEB</color>
+    <color name="colorPrimaryVariant">#87CEEB</color>
+    <color name="colorSecondary">#5BAFCE</color>
+    <color name="colorSecondaryVariant">#4BA8C8</color>
+    <color name="colorAccent">#5BAFCE</color>
+
+    <!-- Background Colors -->
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorCardBackground">#EBF7FB</color>
+
+    <!-- Text Colors -->
+    <color name="colorOnPrimary">#1A2E3A</color>
+    <color name="colorOnBackground">#1A2E3A</color>
+    <color name="colorOnSurface">#1A2E3A</color>
+    <color name="colorTextPrimary">#1A2E3A</color>
+    <color name="colorTextSecondary">#5A7F8F</color>
+    <color name="colorTextHint">#9AB5BF</color>
+
+    <!-- UI Element Colors -->
+    <color name="colorButtonBackground">#ADD8E6</color>
+    <color name="colorButtonText">#1A2E3A</color>
+    <color name="colorDivider">#D0EAF3</color>
+    <color name="colorRipple">#805BAFCE</color>
+    <color name="colorShadow">#1A5BAFCE</color>
+
+    <!-- Bottom Navigation -->
+    <color name="colorBottomNavBackground">#FFFFFF</color>
+    <color name="colorBottomNavSelected">#5BAFCE</color>
+    <color name="colorBottomNavUnselected">#9AB5BF</color>
+
+    <!-- Strength Meter Colors -->
+    <color name="colorStrengthWeak">#EF5350</color>
+    <color name="colorStrengthFair">#FFA726</color>
+    <color name="colorStrengthGood">#66BB6A</color>
+    <color name="colorStrengthStrong">#26C6DA</color>
+
+    <!-- Misc -->
+    <color name="colorFabBackground">#5BAFCE</color>
+    <color name="colorFabIcon">#FFFFFF</color>
+    <color name="colorTabIndicator">#5BAFCE</color>
+    <color name="colorTabSelected">#5BAFCE</color>
+    <color name="colorTabUnselected">#9AB5BF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#1A2E3A</color>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- Regular: download Roboto from Google Fonts and place in res/font/ -->
+    <!-- For now using app-bundled system reference -->
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/roboto_regular"
+        app:fontStyle="normal"
+        app:fontWeight="400"
+        app:font="@font/roboto_regular"/>
+</font-family>
